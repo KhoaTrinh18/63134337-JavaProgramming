@@ -72,7 +72,7 @@ public class Lab5_bai3 {
 
     public static void sapXep(){
         list.sort(new SanPham());
-        xuat(" sau khi sap xep giam dan");
+        xuat(" sau khi sap xep giảm dần");
     }
 
     public static void xoa(){
@@ -85,7 +85,7 @@ public class Lab5_bai3 {
                 break;
             }
         }
-        xuat(" sau khi xoa \"" + tenXoa + "\"");
+        xuat(" sau khi xóa \"" + tenXoa + "\"");
     }
     
     public static void trungBinh(){

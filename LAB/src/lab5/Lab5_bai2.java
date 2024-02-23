@@ -49,7 +49,7 @@ public class Lab5_bai2 {
                 list.remove(x);
                 break;
             }
-        xuat(" sau khi xoa \"" + tenXoa + "\"");
+        xuat(" sau khi xóa \"" + tenXoa + "\"");
     }
 
     public static void menu() {
