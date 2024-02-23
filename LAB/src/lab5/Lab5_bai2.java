@@ -1,12 +1,11 @@
 package lab5;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.Scanner;
 
 public class Lab5_bai2 {
-    static ArrayList<String> list = new ArrayList<String>();
+    static ArrayList<String> list = new ArrayList<>();
     static Scanner sc = new Scanner(System.in);
 
     public static void nhap(){

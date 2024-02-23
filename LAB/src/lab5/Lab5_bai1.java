@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Lab5_bai1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        ArrayList<Double> list = new ArrayList<Double>();
+        ArrayList<Double> list = new ArrayList<>();
         while(true){
             System.out.print("Nhập 1 số thực: ");
             Double x = sc.nextDouble();

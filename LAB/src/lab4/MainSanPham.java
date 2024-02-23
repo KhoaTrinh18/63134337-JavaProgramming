@@ -1,7 +1,5 @@
 package lab4;
 
-import lab4.SanPham;
-
 public class MainSanPham {
     public static void main(String[] args) {
         SanPham sp1 = new SanPham("Fruit", 12000, 1000);
